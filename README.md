@@ -1,4 +1,3 @@
-# ffplay_Miyoo
 Version de ffplay pour la Miyoo mini d'après une version du génial Steward-fu :
 https://steward-fu.github.io/website/handheld/miyoo-mini/parasyte_build_ffplay.htm
 https://github.com/steward-fu/miyoo-mini/releases
@@ -38,7 +37,7 @@ Version of ffplay for the Miyoo mini from a version of the awesome steward-fu :
 https://steward-fu.github.io/website/handheld/miyoo-mini/parasyte_build_ffplay.htm
 https://github.com/steward-fu/miyoo-mini/releases
 
-Modifications made:
+Modifications made :
 	- Recompiled ffplay to start in 4:3 the screen format of the Miyoo.
 	- Change of icon.
 	- Changed VIDEO folder to Media/Videos to stay in the spirit of Onion OS.
@@ -48,7 +47,7 @@ Modifications made:
 The Steward-fu binary is still in the bin folder under the name "ffplay_16:9" for those who want to launch ffplay in 16:9.
 To install, just move the contents of the SDCARD folder to the root of the SD card, and place your videos in Media/Videos.
 
-Key Descriptions.
+Key Descriptions :
     - Up button: +60 seconds
     - Down key: -60 seconds
     - Left button: -10 seconds
