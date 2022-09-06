@@ -7,8 +7,8 @@
 <li class="has-line-data" data-line-start="6" data-line-end="7">Recompilation de ffplay pour qu’il démarre en 4:3 le format d’écran de la Miyoo.</li>
 <li class="has-line-data" data-line-start="7" data-line-end="8">Changement d’icône.</li>
 <li class="has-line-data" data-line-start="8" data-line-end="9">Changement du dossier VIDEO par Media/Videos pour rester dans l’esprit d’Onion OS.</li>
-<li class="has-line-data" data-line-start="9" data-line-end="10">Ajout de quelques lignes dans <a href="http://launch.sh">launch.sh</a> pour désactiver la mise en veille avant le lancement de la vidéo et le réactiver après la video.</li>
-<li class="has-line-data" data-line-start="10" data-line-end="12">Ajout de l’option autoexit dans <a href="http://launch.sh">launch.sh</a> pour qu’ffplay ce ferme à la fin de la vidéo.</li>
+<li class="has-line-data" data-line-start="9" data-line-end="10">Ajout de quelques lignes dans <code>launch.sh</code> pour désactiver la mise en veille avant le lancement de la vidéo et le réactiver après la video.</li>
+<li class="has-line-data" data-line-start="10" data-line-end="12">Ajout de l’option <code>autoexit</code> dans <code>launch.sh</code> pour qu’ffplay ce ferme à la fin de la vidéo.</li>
 </ul>
 <p class="has-line-data" data-line-start="12" data-line-end="14">Le binaire de <strong>Steward-fu</strong> est toujours dans le dossier bin sous le nom de “ffplay_16:9” pour ce qui veulent lancer ffplay en 16:9.<br>
 Pour l’installation il suffit de déplacer le contenu du dossier SDCARD à la racine de la carte sd, et placer vos vidéos dans Media/Vidéos.</p>
@@ -40,8 +40,8 @@ Pour l’installation il suffit de déplacer le contenu du dossier SDCARD à la 
 <li class="has-line-data" data-line-start="41" data-line-end="42">Recompiled ffplay to start in 4:3 the screen format of the Miyoo.</li>
 <li class="has-line-data" data-line-start="42" data-line-end="43">Change of icon.</li>
 <li class="has-line-data" data-line-start="43" data-line-end="44">Changed VIDEO folder to Media/Videos to stay in the spirit of Onion OS.</li>
-<li class="has-line-data" data-line-start="44" data-line-end="45">Added some lines in <a href="http://launch.sh">launch.sh</a> to disable the sleep mode before launching the video and re-enable it after the video.</li>
-<li class="has-line-data" data-line-start="45" data-line-end="47">Added autoexit option in <a href="http://launch.sh">launch.sh</a> to close ffplay at the end of the video.</li>
+<li class="has-line-data" data-line-start="44" data-line-end="45">Added some lines in <code>launch.sh</code> to disable the sleep mode before launching the video and re-enable it after the video.</li>
+<li class="has-line-data" data-line-start="45" data-line-end="47">Added <code>autoexit</code> option in <code>launch.sh</code> to close ffplay at the end of the video.</li>
 </ul>
 <p class="has-line-data" data-line-start="47" data-line-end="49">The <strong>Steward-fu</strong> binary is still in the bin folder under the name “ffplay_16:9” for those who want to launch ffplay in 16:9.<br>
 To install, just move the contents of the SDCARD folder to the root of the SD card, and place your videos in Media/Videos.</p>
