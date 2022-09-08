@@ -10,7 +10,7 @@
 <li class="has-line-data" data-line-start="9" data-line-end="10">Ajout de quelques lignes dans <code>launch.sh</code> pour désactiver la mise en veille avant le lancement de la vidéo et le réactiver après la video.</li>
 <li class="has-line-data" data-line-start="10" data-line-end="12">Ajout de l’option <code>autoexit</code> dans <code>launch.sh</code> pour qu’ffplay ce ferme à la fin de la vidéo.</li>
 </ul>
-<p class="has-line-data" data-line-start="12" data-line-end="14">Le binaire de <strong>Steward-fu</strong> est toujours dans le dossier bin sous le nom de “ffplay_16:9” pour ce qui veulent lancer ffplay en 16:9.<br>
+<p class="has-line-data" data-line-start="12" data-line-end="14">Le binaire de <strong>Steward-fu</strong> est toujours dans le dossier bin sous le nom de “ffplay_16-9” pour ce qui veulent lancer ffplay en 16:9.<br>
 Pour l’installation il suffit de déplacer le contenu du dossier SDCARD à la racine de la carte sd, et placer vos vidéos dans Media/Vidéos.</p>
 <p class="has-line-data" data-line-start="15" data-line-end="16"><strong>Actions des touches :</strong></p>
 <ul>
@@ -44,7 +44,7 @@ Pour l’installation il suffit de déplacer le contenu du dossier SDCARD à la 
 <li class="has-line-data" data-line-start="44" data-line-end="45">Added some lines in <code>launch.sh</code> to disable the sleep mode before launching the video and re-enable it after the video.</li>
 <li class="has-line-data" data-line-start="45" data-line-end="47">Added <code>autoexit</code> option in <code>launch.sh</code> to close ffplay at the end of the video.</li>
 </ul>
-<p class="has-line-data" data-line-start="47" data-line-end="49">The <strong>Steward-fu</strong> binary is still in the bin folder under the name “ffplay_16:9” for those who want to launch ffplay in 16:9.<br>
+<p class="has-line-data" data-line-start="47" data-line-end="49">The <strong>Steward-fu</strong> binary is still in the bin folder under the name “ffplay_16-9” for those who want to launch ffplay in 16:9.<br>
 To install, just move the contents of the SDCARD folder to the root of the SD card, and place your videos in Media/Videos.</p>
 <p class="has-line-data" data-line-start="50" data-line-end="51"><strong>Key Descriptions :</strong></p>
 <ul>
