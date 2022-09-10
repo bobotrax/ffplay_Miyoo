@@ -31,7 +31,8 @@ Pour l’installation il suffit de déplacer le contenu du dossier SDCARD à la 
 <li class="has-line-data" data-line-start="30" data-line-end="32">Menu : Enregistre la position et quitte</li>
 </ul>
 <p class="has-line-data" data-line-start="32" data-line-end="33">V1.1 - Suppression de la dépendence à parasyte, à priori ffplay a besoin que d'une seul librairie de parasyte.</p>
-<p class="has-line-data" data-line-start="33" data-line-end="34">Merci à <strong>Steward-fu</strong>.</p>
+<p class="has-line-data" data-line-start="33" data-line-end="34">v1.2 - Utilisation des drapeaux Onion pour interdire/rétablir la mise en veille.</p>
+<p class="has-line-data" data-line-start="34" data-line-end="35">Merci à <strong>Steward-fu</strong>.</p>
 <hr>
 <p class="has-line-data" data-line-start="36" data-line-end="39">Version of ffplay for the Miyoo mini from a version of the awesome <strong>steward-fu</strong> :<br>
 <a href="https://steward-fu.github.io/website/handheld/miyoo-mini/parasyte_build_ffplay.htm">https://steward-fu.github.io/website/handheld/miyoo-mini/parasyte_build_ffplay.htm</a><br>
@@ -65,4 +66,5 @@ To install, just move the contents of the SDCARD folder to the root of the SD ca
 <li class="has-line-data" data-line-start="65" data-line-end="67">MENU：save and leave</li>
 </ul>
 <p class="has-line-data" data-line-start="67" data-line-end="68">V1.1 - Removal of parasyte dependency, in principle ffplay only needs one parasyte library.</p>
-<p class="has-line-data" data-line-start="68" data-line-end="69">Thanks to <strong>Steward-fu</strong>.</p>
+<p class="has-line-data" data-line-start="68" data-line-end="69">v1.2 - Use of Onion flags to disable/enable sleep mode.</p>
+<p class="has-line-data" data-line-start="70" data-line-end="71">Thanks to <strong>Steward-fu</strong>.</p>
